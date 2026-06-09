@@ -1,0 +1,43 @@
+# 虚拟环境
+venv/
+.env
+.venv/
+
+# Python编译文件
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Chroma向量数据库
+chroma_db/
+
+# Streamlit配置
+.streamlit/secrets.toml
+.streamlit/.credentials
+.streamlit/config.toml
+
+# 临时文件
+*.tmp
+*.log
+
+# 文档目录（用于存放用户上传的文档）
+documents/
+
+# PyInstaller打包产物
+dist/
+build/
+*.spec
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+# IDE配置
+.vscode/
+.idea/
+
+# 数据文件
+*.csv
+*.json
+*.db
