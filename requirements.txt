@@ -1,0 +1,9 @@
+streamlit==1.29.0
+langchain==0.1.0
+langchain-community==0.0.20
+langchain-ollama==0.1.0
+chromadb==0.4.23
+pypdf2==3.0.0
+python-docx==1.1.0
+tiktoken==0.5.2
+pyinstaller==6.3.0
